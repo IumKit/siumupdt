@@ -30,7 +30,7 @@
 		<Notepad64URL>https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.7.1/npp.8.7.1.portable.x64.7z</Notepad64URL>
 	<!-- <Shell>5.0</Shell>
 		<ShellURL>https://www.iumkit.net/updates/SoftIum/5.0/Shell.7z</ShellURL> -->
-	<WIT>3.1.0.2</WIT>
+	<WIT>3.1.0.3</WIT>
 	<TweaksDIK>240609</TweaksDIK>
 	<SiumAgent>5.6.0.5</SiumAgent>
 	<MSEdgeRedirect>0.7.5.3</MSEdgeRedirect>
