@@ -2,7 +2,7 @@
 <!--- iumkit.net : SIUM APPS -->
 <xml>
   <Settings>
-    <AeroAdmin>4.90</AeroAdmin>
+    <AeroAdmin>4.91</AeroAdmin>
 		<AeroAdminURL>https://ulm.aeroadmin.com/AeroAdmin.exe</AeroAdminURL>
 	<Autoruns>14.11</Autoruns>
 		<AutorunsURL>https://download.sysinternals.com/files/Autoruns.zip</AutorunsURL>
