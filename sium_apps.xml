@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--- iumkit.net : SIUM APPS -->
+<xml>
+  <Settings>
+    <AeroAdmin>4.90</AeroAdmin>
+		<AeroAdminURL>https://ulm.aeroadmin.com/AeroAdmin.exe</AeroAdminURL>
+	<Autoruns>14.11</Autoruns>
+		<AutorunsURL>https://download.sysinternals.com/files/Autoruns.zip</AutorunsURL>
+	<CCleaner>6.29</CCleaner>
+		<CCleanerURL>https://download.ccleaner.com/portable/ccsetup629.zip</CCleanerURL>
+	<CCleanerWinApp>240505</CCleanerWinApp>
+		<CCleanerWinAppURL>https://raw.githubusercontent.com/MoscaDotTo/Winapp2/master/Winapp2.ini</CCleanerWinAppURL>
+	<Everything>1.4.1.1026</Everything>
+		<EverythingURL>https://www.voidtools.com/Everything-1.4.1.1026.x64.zip</EverythingURL>
+	<FAB>1.9</FAB>
+		<FABURL>https://www.sordum.org/files/downloads.php?firewall-app-blocker</FABURL>
+	<Greenshot>1.3.277</Greenshot>
+		<GreenshotURL>https://www.iumkit.net/updates/SoftIum/5.0/Greenshot.7z</GreenshotURL>
+	<HwInfo>8.14</HwInfo>
+		<HwInfoURL>https://www.sac.sk/download/utildiag/hwi_814.zip</HwInfoURL>
+	<LockHunter>3.4.3.146</LockHunter>
+		<LockHunterURL>http://www.iumkit.net/updates/SoftIum/5.0/LockHunter.7z</LockHunterURL>
+	<Procexp>17.06</Procexp>
+		<ProcexpURL>https://download.sysinternals.com/files/ProcessExplorer.zip</ProcexpURL>
+	<Tcpv>4.19</Tcpv>
+		<TcpvURL>https://download.sysinternals.com/files/TCPView.zip</TcpvURL>
+	<Notepad>8.7.1</Notepad>
+		<NotepadURL>https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.7.1/npp.8.7.1.portable.7z</NotepadURL>
+	<Notepad64>8.7.1</Notepad64>
+		<Notepad64URL>https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.7.1/npp.8.7.1.portable.x64.7z</Notepad64URL>
+	<!-- <Shell>5.0</Shell>
+		<ShellURL>https://www.iumkit.net/updates/SoftIum/5.0/Shell.7z</ShellURL> -->
+	<TweaksDIK>240609</TweaksDIK>
+	<SiumAgent>5.6.0.5</SiumAgent>
+	<MSEdgeRedirect>0.7.5.3</MSEdgeRedirect>
+		<MSEdgeRedirectURL>https://github.com/rcmaehl/MSEdgeRedirect/releases/download/0.7.5.3/MSEdgeRedirect.exe</MSEdgeRedirectURL>
+	<!-- Optional -->
+	<Keepass>2.57.1</Keepass>
+		<KeepassURL>https://netcologne.dl.sourceforge.net/project/keepass/KeePass%202.x/2.57.1/KeePass-2.57.1.zip</KeepassURL>
+		<KeepassLngFRURL>https://www.iumkit.net/updates/SoftIum/5.0/app_Keepass_French.lngx</KeepassLngFRURL>
+	<Regedix>2.0.0.0</Regedix>
+		<RegedixURL>https://www.iumkit.net/updates/SoftIum/5.0/Regedix-2.0.0-x64.exe</RegedixURL>
+	<Dotnetvers>7.0.20</Dotnetvers>
+		<DotnetURL>https://download.visualstudio.microsoft.com/download/pr/be7eaed0-4e32-472b-b53e-b08ac3433a22/fc99a5977c57cbfb93b4afb401953818/dotnet-runtime-7.0.20-win-x64.exe</DotnetURL>
+	<RobustBackup>3.1.0.0</RobustBackup>
+		<RobustBackupURL>https://www.iumkit.net/updates/SoftIum/5.0/RobustBackup.7z</RobustBackupURL>
+	<GeekUninstall>1.5.2</GeekUninstall>
+		<GeekUninstallURL>https://geekuninstaller.com/geek.7z</GeekUninstallURL>
+	<!-- <AuroraStore>0.5</AuroraStore>
+		<AuroraStoreURL>https://www.iumkit.net/updates/SoftIum/5.0/AuroraStore.ps1</AuroraStoreURL> -->
+	<MsStore>0.1</MsStore>
+		<MsStoreURL>https://www.iumkit.net/updates/SoftIum/5.0/app_MStore.7z</MsStoreURL>
+	<MsWidgets>0.1</MsWidgets>
+		<MsWidgetsURL>https://www.iumkit.net/updates/SoftIum/5.0/app_ClientWebEx.7z</MsWidgetsURL>
+	<!-- <Brave>0.1</Brave> -->
+	<NAPS2>0.1</NAPS2>
+	<SevenZip>0.1</SevenZip>
+	<Opera>0.1</Opera>
+	<Firefox>0.1</Firefox>
+	<LibreOffice>0.1</LibreOffice>
+	<VLC>0.1</VLC>
+	<qBittorrent>0.1</qBittorrent>
+	<PaintNET>0.1</PaintNET>
+	<PowerToys>0.1</PowerToys>
+	<ChocolateyGUI>0.1</ChocolateyGUI>
+	<!-- <UniGetUI>0.1</UniGetUI> -->
+  </Settings>
+</xml>
